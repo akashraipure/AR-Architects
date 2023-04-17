@@ -1,0 +1,72 @@
+@media screen and (max-width: 410px) {
+    .Dr-bg-img {
+        width: 400px;
+        height: 550px;
+    }
+
+    .hedear_text {
+        width: 300px !important;
+        font-size: 10px;
+    }
+
+    .ram {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+    }
+
+    .ram_inner {
+        width: 350px;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .ram_inner1 {
+        width: 400px;
+        justify-content: center;
+        margin-bottom: 50px;
+        padding: 0;
+
+    }
+
+    .card-section-style {
+        display: flex;
+        justify-content: center;
+    }
+
+    .card-section {
+        display: flex;
+        justify-content: center;
+    }
+
+    .happy_peple_text {
+        display: none;
+        /* width: 200px;
+        border: 1px solid red;
+        position: relative;
+        height: 200px;
+        top: 20px; */
+    }
+
+    /* .happy_peple_text h2 {
+        font-size: 15px;
+    } */
+    /* .happy_peple_text p {
+        font-size: 12px;
+    } */
+
+
+    .happy_peple {
+        width: 400px !important;
+        height: 300px;
+    }
+
+    .footer_section_foot {
+        display: flex;
+        flex-direction: column;
+    }
+    .quick{
+        display: none;
+    }
+}
